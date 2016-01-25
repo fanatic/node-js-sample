@@ -5,7 +5,7 @@
   "logo": "http://node-js-sample.herokuapp.com/node.svg",
   "keywords": ["node", "express", "static"],
   "scripts": {
-    "predeploy": "echo hello world"
+    "predeploy": "echo hello world",
     "pr-predestroy": "bin/doesnotexist error"
   }
 }
